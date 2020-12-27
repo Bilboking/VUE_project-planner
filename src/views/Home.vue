@@ -26,4 +26,23 @@ export default {
     .catch(err => console.log(err.message))
   }
 }
+
+
+// {
+//   "projects": [
+//     {
+//       "id": 1,
+//       "title": "Create new homepage banner",
+//       "details": "Lorem ipsum",
+//       "complete": false
+//     },
+//     {
+//       "id": 2,
+//       "title": "Make marketing email",
+//       "details": "Lorem ipsum",
+//       "complete": true
+//     }
+//   ]
+// } 
 </script>
+
